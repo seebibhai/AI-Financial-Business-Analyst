@@ -1,0 +1,73 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-feature-settings: 'tnum' 1, 'lnum' 1; /* tabular numerals everywhere by default */
+  }
+  body {
+    font-family: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  }
+  :focus-visible {
+    outline: 2px solid theme('colors.ledger.500');
+    outline-offset: 2px;
+    border-radius: 2px;
+  }
+  ::selection {
+    background-color: theme('colors.ledger.100');
+  }
+}
+
+@layer components {
+  /* The signature element: every money figure renders in tabular monospace,
+     like entries in a physical ledger book, so numbers always align. */
+  .figure {
+    font-family: 'IBM Plex Mono', ui-monospace, monospace;
+    font-variant-numeric: tabular-nums;
+    letter-spacing: -0.01em;
+  }
+
+  .ledger-rule {
+    border-bottom: 1px solid theme('colors.ink.100');
+  }
+
+  .card {
+    @apply bg-white rounded-xl2 shadow-card border border-ink-100/60;
+  }
+
+  .btn {
+    @apply inline-flex items-center justify-center gap-2 rounded-lg font-medium transition-colors
+      disabled:opacity-50 disabled:cursor-not-allowed focus-visible:outline-none;
+  }
+  .btn-primary {
+    @apply btn bg-ledger-500 text-white hover:bg-ledger-600 px-4 py-2.5 text-sm;
+  }
+  .btn-secondary {
+    @apply btn bg-white text-ink-700 border border-ink-200 hover:bg-ink-50 px-4 py-2.5 text-sm;
+  }
+  .btn-ghost {
+    @apply btn text-ink-600 hover:bg-ink-100 px-3 py-2 text-sm;
+  }
+
+  .input {
+    @apply w-full rounded-lg border border-ink-200 bg-white px-3.5 py-2.5 text-sm text-ink-900
+      placeholder:text-ink-400 focus:border-ledger-500 focus:ring-1 focus:ring-ledger-500 outline-none;
+  }
+
+  .label {
+    @apply block text-xs font-medium text-ink-500 mb-1.5 uppercase tracking-wide;
+  }
+
+  .badge {
+    @apply inline-flex items-center gap-1 rounded-full px-2.5 py-0.5 text-xs font-medium;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}

@@ -1,0 +1,157 @@
+Date,Description,Amount,Type,Category,Vendor,Customer,Payment Method
+2026-02-12,Online Store - Invoice,237124,Revenue,Wholesale Orders,,Blue Ocean Foods,Cash
+2026-02-11,Product Sales - Invoice,247131,Revenue,Wholesale Orders,,Horizon Electronics,Card
+2026-02-24,Wholesale Orders - Invoice,269846,Revenue,Online Store,,Al-Karam Textiles,Bank Transfer
+2026-02-23,Service Revenue - Invoice,407467,Revenue,Product Sales,,Falcon Apparel,Bank Transfer
+2026-02-22,Product Sales - Invoice,309476,Revenue,Product Sales,,Blue Ocean Foods,Cash
+2026-02-24,Product Sales - Invoice,156510,Revenue,Wholesale Orders,,Prime Logistics Co,Card
+2026-02-08,Wholesale Orders - Invoice,166208,Revenue,Online Store,,Horizon Electronics,Bank Transfer
+2026-02-21,Wholesale Orders - Invoice,118973,Revenue,Online Store,,Blue Ocean Foods,Card
+2026-02-19,Product Sales - Invoice,129988,Revenue,Wholesale Orders,,Prime Logistics Co,Card
+2026-02-12,Online Store - Invoice,84709,Revenue,Service Revenue,,Nexus Retail,Card
+2026-02-08,Service Revenue - Invoice,82776,Revenue,Service Revenue,,Metro Mart,Bank Transfer
+2026-02-18,Online Store - Invoice,125743,Revenue,Service Revenue,,Al-Karam Textiles,Cash
+2026-02-05,Service Revenue - Invoice,333734,Revenue,Service Revenue,,Zenith Traders,Bank Transfer
+2026-02-24,Wholesale Orders - Invoice,96502,Revenue,Product Sales,,Prime Logistics Co,Bank Transfer
+2026-02-01,Monthly Office Rent,150000,Expense,Rent,Cityview Properties,,Bank Transfer
+2026-02-28,Staff Payroll,451435,Expense,Payroll,Internal Payroll,,Bank Transfer
+2026-02-05,CloudSuite Subscription,30818,Expense,Software,CloudSuite Inc,,Card
+2026-02-12,Adobe Creative Cloud,14685,Expense,Software,Adobe,,Card
+2026-02-08,Electricity Bill,44019,Expense,Utilities,National Power Co,,Bank Transfer
+2026-02-09,Internet & Phone,9633,Expense,Utilities,FiberLink ISP,,Card
+2026-02-15,Marketing expense,42906,Expense,Marketing,Social Boost Agency,,Card
+2026-02-25,Office expense,84418,Expense,Office,OfficeMart,,Card
+2026-02-03,Operations expense,51351,Expense,Operations,Swift Logistics,,Card
+2026-02-01,Operations expense,21853,Expense,Operations,Swift Logistics,,Bank Transfer
+2026-02-24,Operations expense,84090,Expense,Operations,Swift Logistics,,Card
+2026-03-11,Product Sales - Invoice,309060,Revenue,Service Revenue,,Prime Logistics Co,Bank Transfer
+2026-03-27,Product Sales - Invoice,229925,Revenue,Online Store,,Zenith Traders,Cash
+2026-03-05,Product Sales - Invoice,299433,Revenue,Online Store,,Horizon Electronics,Cash
+2026-03-10,Online Store - Invoice,171443,Revenue,Online Store,,Metro Mart,Bank Transfer
+2026-03-16,Product Sales - Invoice,217526,Revenue,Product Sales,,Nexus Retail,Bank Transfer
+2026-03-14,Product Sales - Invoice,87131,Revenue,Wholesale Orders,,Falcon Apparel,Bank Transfer
+2026-03-12,Service Revenue - Invoice,110488,Revenue,Online Store,,Nexus Retail,Bank Transfer
+2026-03-12,Product Sales - Invoice,261647,Revenue,Product Sales,,Zenith Traders,Card
+2026-03-14,Wholesale Orders - Invoice,235636,Revenue,Product Sales,,Falcon Apparel,Card
+2026-03-14,Wholesale Orders - Invoice,201485,Revenue,Product Sales,,Prime Logistics Co,Cash
+2026-03-01,Monthly Office Rent,150000,Expense,Rent,Cityview Properties,,Bank Transfer
+2026-03-28,Staff Payroll,468209,Expense,Payroll,Internal Payroll,,Bank Transfer
+2026-03-05,CloudSuite Subscription,29570,Expense,Software,CloudSuite Inc,,Card
+2026-03-12,Adobe Creative Cloud,15164,Expense,Software,Adobe,,Card
+2026-03-08,Electricity Bill,41495,Expense,Utilities,National Power Co,,Bank Transfer
+2026-03-09,Internet & Phone,10921,Expense,Utilities,FiberLink ISP,,Card
+2026-03-15,Marketing expense,46268,Expense,Marketing,AdSphere Digital,,Card
+2026-03-13,Office expense,73685,Expense,Office,OfficeMart,,Cash
+2026-03-10,Operations expense,23528,Expense,Operations,PackRight Supplies,,Bank Transfer
+2026-03-23,Office expense,66696,Expense,Office,Staples Wholesale,,Cash
+2026-03-01,Office expense,36440,Expense,Office,OfficeMart,,Card
+2026-04-16,Wholesale Orders - Invoice,259716,Revenue,Wholesale Orders,,Blue Ocean Foods,Cash
+2026-04-16,Service Revenue - Invoice,139007,Revenue,Online Store,,Horizon Electronics,Card
+2026-04-03,Online Store - Invoice,341845,Revenue,Product Sales,,Al-Karam Textiles,Bank Transfer
+2026-04-24,Service Revenue - Invoice,332505,Revenue,Wholesale Orders,,Zenith Traders,Cash
+2026-04-10,Product Sales - Invoice,135403,Revenue,Wholesale Orders,,Al-Karam Textiles,Cash
+2026-04-05,Product Sales - Invoice,111266,Revenue,Online Store,,Nexus Retail,Cash
+2026-04-19,Wholesale Orders - Invoice,309949,Revenue,Wholesale Orders,,Al-Karam Textiles,Card
+2026-04-11,Online Store - Invoice,291720,Revenue,Online Store,,Horizon Electronics,Cash
+2026-04-11,Product Sales - Invoice,377161,Revenue,Online Store,,Metro Mart,Card
+2026-04-20,Service Revenue - Invoice,282379,Revenue,Online Store,,Blue Ocean Foods,Cash
+2026-04-13,Online Store - Invoice,429209,Revenue,Online Store,,Horizon Electronics,Cash
+2026-04-16,Wholesale Orders - Invoice,386001,Revenue,Online Store,,Metro Mart,Bank Transfer
+2026-04-03,Product Sales - Invoice,266504,Revenue,Product Sales,,Al-Karam Textiles,Cash
+2026-04-17,Wholesale Orders - Invoice,436105,Revenue,Online Store,,Metro Mart,Card
+2026-04-01,Monthly Office Rent,150000,Expense,Rent,Cityview Properties,,Bank Transfer
+2026-04-28,Staff Payroll,442071,Expense,Payroll,Internal Payroll,,Bank Transfer
+2026-04-05,CloudSuite Subscription,30697,Expense,Software,CloudSuite Inc,,Card
+2026-04-12,Adobe Creative Cloud,15580,Expense,Software,Adobe,,Card
+2026-04-08,Electricity Bill,38212,Expense,Utilities,National Power Co,,Bank Transfer
+2026-04-09,Internet & Phone,10517,Expense,Utilities,FiberLink ISP,,Card
+2026-04-15,Marketing expense,49748,Expense,Marketing,Social Boost Agency,,Card
+2026-04-25,Operations expense,87880,Expense,Operations,PackRight Supplies,,Cash
+2026-04-21,Office expense,59998,Expense,Office,Staples Wholesale,,Bank Transfer
+2026-04-20,Operations expense,29098,Expense,Operations,Swift Logistics,,Bank Transfer
+2026-04-09,Operations expense,25425,Expense,Operations,PackRight Supplies,,Bank Transfer
+2026-05-22,Online Store - Invoice,271533,Revenue,Wholesale Orders,,Zenith Traders,Card
+2026-05-10,Service Revenue - Invoice,176839,Revenue,Wholesale Orders,,Zenith Traders,Card
+2026-05-13,Online Store - Invoice,161056,Revenue,Product Sales,,Metro Mart,Card
+2026-05-01,Service Revenue - Invoice,347258,Revenue,Wholesale Orders,,Nexus Retail,Card
+2026-05-13,Service Revenue - Invoice,370180,Revenue,Online Store,,Nexus Retail,Cash
+2026-05-03,Online Store - Invoice,434241,Revenue,Product Sales,,Falcon Apparel,Bank Transfer
+2026-05-16,Online Store - Invoice,367645,Revenue,Online Store,,Blue Ocean Foods,Cash
+2026-05-06,Product Sales - Invoice,220214,Revenue,Wholesale Orders,,Prime Logistics Co,Card
+2026-05-08,Wholesale Orders - Invoice,231141,Revenue,Service Revenue,,Zenith Traders,Bank Transfer
+2026-05-10,Wholesale Orders - Invoice,287729,Revenue,Product Sales,,Metro Mart,Card
+2026-05-03,Online Store - Invoice,376886,Revenue,Wholesale Orders,,Nexus Retail,Card
+2026-05-07,Wholesale Orders - Invoice,100783,Revenue,Service Revenue,,Al-Karam Textiles,Card
+2026-05-01,Monthly Office Rent,150000,Expense,Rent,Cityview Properties,,Bank Transfer
+2026-05-28,Staff Payroll,462040,Expense,Payroll,Internal Payroll,,Bank Transfer
+2026-05-05,CloudSuite Subscription,31102,Expense,Software,CloudSuite Inc,,Card
+2026-05-12,Adobe Creative Cloud,15701,Expense,Software,Adobe,,Card
+2026-05-08,Electricity Bill,46191,Expense,Utilities,National Power Co,,Bank Transfer
+2026-05-09,Internet & Phone,9999,Expense,Utilities,FiberLink ISP,,Card
+2026-05-15,Marketing expense,43394,Expense,Marketing,Social Boost Agency,,Card
+2026-05-02,Office expense,26711,Expense,Office,Staples Wholesale,,Bank Transfer
+2026-05-19,Operations expense,50649,Expense,Operations,PackRight Supplies,,Cash
+2026-06-24,Product Sales - Invoice,370487,Revenue,Service Revenue,,Nexus Retail,Cash
+2026-06-23,Online Store - Invoice,98936,Revenue,Product Sales,,Metro Mart,Bank Transfer
+2026-06-13,Wholesale Orders - Invoice,365864,Revenue,Product Sales,,Nexus Retail,Cash
+2026-06-24,Product Sales - Invoice,448130,Revenue,Wholesale Orders,,Metro Mart,Bank Transfer
+2026-06-22,Online Store - Invoice,463774,Revenue,Online Store,,Falcon Apparel,Bank Transfer
+2026-06-05,Service Revenue - Invoice,132936,Revenue,Online Store,,Metro Mart,Bank Transfer
+2026-06-14,Service Revenue - Invoice,288085,Revenue,Product Sales,,Blue Ocean Foods,Bank Transfer
+2026-06-18,Wholesale Orders - Invoice,90265,Revenue,Wholesale Orders,,Metro Mart,Bank Transfer
+2026-06-10,Wholesale Orders - Invoice,372707,Revenue,Wholesale Orders,,Prime Logistics Co,Cash
+2026-06-12,Product Sales - Invoice,153897,Revenue,Service Revenue,,Horizon Electronics,Bank Transfer
+2026-06-09,Wholesale Orders - Invoice,307361,Revenue,Online Store,,Metro Mart,Card
+2026-06-07,Wholesale Orders - Invoice,148078,Revenue,Online Store,,Al-Karam Textiles,Bank Transfer
+2026-06-18,Wholesale Orders - Invoice,306234,Revenue,Product Sales,,Prime Logistics Co,Bank Transfer
+2026-06-01,Monthly Office Rent,150000,Expense,Rent,Cityview Properties,,Bank Transfer
+2026-06-28,Staff Payroll,469056,Expense,Payroll,Internal Payroll,,Bank Transfer
+2026-06-05,CloudSuite Subscription,31492,Expense,Software,CloudSuite Inc,,Card
+2026-06-12,Adobe Creative Cloud,14114,Expense,Software,Adobe,,Card
+2026-06-08,Electricity Bill,44757,Expense,Utilities,National Power Co,,Bank Transfer
+2026-06-09,Internet & Phone,10357,Expense,Utilities,FiberLink ISP,,Card
+2026-06-15,Marketing expense,51582,Expense,Marketing,Social Boost Agency,,Card
+2026-06-22,Office expense,68460,Expense,Office,Staples Wholesale,,Bank Transfer
+2026-06-24,Office expense,68106,Expense,Office,Staples Wholesale,,Bank Transfer
+2026-06-23,Operations expense,68639,Expense,Operations,Swift Logistics,,Bank Transfer
+2026-06-21,Office expense,25179,Expense,Office,OfficeMart,,Bank Transfer
+2026-07-11,Product Sales - Invoice,136279,Revenue,Online Store,,Horizon Electronics,Bank Transfer
+2026-07-02,Wholesale Orders - Invoice,191555,Revenue,Online Store,,Nexus Retail,Card
+2026-07-03,Service Revenue - Invoice,452104,Revenue,Service Revenue,,Metro Mart,Cash
+2026-07-13,Product Sales - Invoice,208297,Revenue,Product Sales,,Zenith Traders,Bank Transfer
+2026-07-22,Product Sales - Invoice,197602,Revenue,Service Revenue,,Horizon Electronics,Card
+2026-07-04,Online Store - Invoice,220606,Revenue,Service Revenue,,Falcon Apparel,Bank Transfer
+2026-07-19,Online Store - Invoice,137649,Revenue,Online Store,,Falcon Apparel,Card
+2026-07-12,Product Sales - Invoice,347498,Revenue,Online Store,,Prime Logistics Co,Card
+2026-07-13,Product Sales - Invoice,472080,Revenue,Wholesale Orders,,Prime Logistics Co,Cash
+2026-07-06,Wholesale Orders - Invoice,322743,Revenue,Wholesale Orders,,Prime Logistics Co,Bank Transfer
+2026-07-25,Online Store - Invoice,178908,Revenue,Online Store,,Metro Mart,Bank Transfer
+2026-07-01,Monthly Office Rent,150000,Expense,Rent,Cityview Properties,,Bank Transfer
+2026-07-28,Staff Payroll,468509,Expense,Payroll,Internal Payroll,,Bank Transfer
+2026-07-05,CloudSuite Subscription,28285,Expense,Software,CloudSuite Inc,,Card
+2026-07-12,Adobe Creative Cloud,14508,Expense,Software,Adobe,,Card
+2026-07-08,Electricity Bill,38114,Expense,Utilities,National Power Co,,Bank Transfer
+2026-07-09,Internet & Phone,9331,Expense,Utilities,FiberLink ISP,,Card
+2026-07-15,Marketing expense,40204,Expense,Marketing,AdSphere Digital,,Card
+2026-07-01,Operations expense,86919,Expense,Operations,Swift Logistics,,Cash
+2026-07-10,Operations expense,60410,Expense,Operations,PackRight Supplies,,Card
+2026-07-18,Marketing expense - Major Ad Campaign,850000,Expense,Marketing,Social Boost Agency,,Bank Transfer
+2026-08-03,Product Sales - Invoice,470895,Revenue,Wholesale Orders,,Metro Mart,Card
+2026-08-02,Product Sales - Invoice,457930,Revenue,Product Sales,,Falcon Apparel,Bank Transfer
+2026-08-24,Wholesale Orders - Invoice,215026,Revenue,Wholesale Orders,,Blue Ocean Foods,Cash
+2026-08-17,Product Sales - Invoice,324425,Revenue,Online Store,,Metro Mart,Cash
+2026-08-21,Product Sales - Invoice,458547,Revenue,Product Sales,,Metro Mart,Card
+2026-08-26,Wholesale Orders - Invoice,410970,Revenue,Product Sales,,Falcon Apparel,Card
+2026-08-08,Product Sales - Invoice,519637,Revenue,Service Revenue,,Blue Ocean Foods,Card
+2026-08-18,Online Store - Invoice,126221,Revenue,Product Sales,,Blue Ocean Foods,Card
+2026-08-17,Wholesale Orders - Invoice,405171,Revenue,Service Revenue,,Horizon Electronics,Cash
+2026-08-08,Product Sales - Invoice,455956,Revenue,Online Store,,Blue Ocean Foods,Cash
+2026-08-01,Monthly Office Rent,150000,Expense,Rent,Cityview Properties,,Bank Transfer
+2026-08-28,Staff Payroll,443067,Expense,Payroll,Internal Payroll,,Bank Transfer
+2026-08-05,CloudSuite Subscription,31718,Expense,Software,CloudSuite Inc,,Card
+2026-08-12,Adobe Creative Cloud,15553,Expense,Software,Adobe,,Card
+2026-08-08,Electricity Bill,44846,Expense,Utilities,National Power Co,,Bank Transfer
+2026-08-09,Internet & Phone,9377,Expense,Utilities,FiberLink ISP,,Card
+2026-08-15,Marketing expense,49067,Expense,Marketing,AdSphere Digital,,Card
+2026-08-04,Operations expense,82682,Expense,Operations,Swift Logistics,,Bank Transfer
+2026-08-27,Operations expense,81061,Expense,Operations,PackRight Supplies,,Card
