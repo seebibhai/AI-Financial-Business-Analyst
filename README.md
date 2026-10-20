@@ -9,7 +9,7 @@ numbers your own code calculated, not numbers an AI guessed.
 
 > **Scope note:** This build implements the full core pipeline end-to-end: auth,
 > CSV/Excel upload with smart column mapping, deterministic analytics, evidence-based
-> AI chat, forecasting, and anomaly detection. Invoice/OCR processing, PDF report
+> AI chat, forecasting and anomaly detection. Invoice/OCR processing, PDF report
 > export, and a few of the more peripheral pages from the original spec were left out
 > of this pass so the core pipeline could be built solidly rather than everything
 > being built shallowly — see [Future Improvements](#future-improvements).
